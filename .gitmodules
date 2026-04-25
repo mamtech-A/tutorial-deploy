@@ -1,0 +1,6 @@
+[submodule "services/service-a"]
+	path = services/service-a
+	url = git@github.com:mamtech-A/tutorial-service-a.git
+[submodule "services/service-b"]
+	path = services/service-b
+	url = git@github.com:mamtech-A/tutorial-service-b.git
